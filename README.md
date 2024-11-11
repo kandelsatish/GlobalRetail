@@ -24,7 +24,7 @@ GlobalRetail faces challenges in managing and analyzing data effectively due to 
 
 The project follows a multi-layer architecture, consisting of three primary layers: Bronze, Silver, and Gold. Data flows through these layers to enhance quality, enrich content, and prepare for business intelligence.
 
-![Architecture Diagram](link_to_diagram.png)
+![Architecture Diagram](https://github.com/kandelsatish/GlobalRetail/blob/main/assets/etl.png)
 
 1. **Raw Data Layer:** Ingests raw data from multiple sources (CSV, JSON, Parquet).
 2. **Master Data Layer:** Processes and cleanses data to address quality issues and aligns formats.
